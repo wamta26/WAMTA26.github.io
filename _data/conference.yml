@@ -1,0 +1,138 @@
+full_title: Workshop on Asynchronous Many-Task Systems and Applications 2023
+short_title: WAMTA 23
+email: patrickdiehl@lsu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  HotWeb is a forum bringing together researchers and practitioners interested 
+  in the design, implementation, and evaluation of Internet systems and applications. 
+location: Baton Rouge, La, USA
+date: February, 2023
+logo_path: ./assets/images/logo2017.jpg
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/image0.jpg
+    description: Baton Rouge Old Capital Building
+    photographer_name: Darrell Miller
+    photographer_link: https://www.flickr.com/photos/darrellrhodesmiller/
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: Louisiana's Old State Capitol
+    photographer_name: pontla
+    photographer_link: https://www.flickr.com/photos/pontla/
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: Downtown Baton Rouge Skyline
+    photographer_name: Antrell Williams
+    photographer_link: https://www.flickr.com/photos/33630741@N07/
+  - id: 3
+    image_path: ./assets/images/slideshow/image3.jpg
+    description: Downtown Baton Rouge
+    photographer_name: Antrell Williams
+    photographer_link: https://www.flickr.com/photos/33630741@N07/
+  - id: 4
+    image_path: ./assets/images/slideshow/image4.jpg
+    description: Tiger Stadium at night
+    photographer_name: getmahesh
+    photographer_link: https://www.flickr.com/photos/getmahesh/
+  - id: 5
+    image_path: ./assets/images/slideshow/image5.jpg
+    description: Downtown Baton Rouge
+    photographer_name: getmahesh
+    photographer_link: https://www.flickr.com/photos/getmahesh/
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: /cfp.html
+    visible: False
+  - id: 3
+    label: Submission
+    path: /submission.html
+    visible: False
+  - id: 4
+    label: Programs
+    path: /program.html
+    visible: False
+  - id: 5
+    label: Venue
+    path: /venue.html
+    visible: False
+  - id: 6
+    label: Registration
+    path: /registration.html
+    visible: False
+deadlines:
+  - date: 2017-7-6
+    timezone: 9PM PDT
+    text: Submission deadline (extended)
+    pass_due: False
+  - date: 2017-8-7
+    text: Notification of acceptance
+    pass_due: False
+  - date: 2017-8-17
+    text: Camera-ready copy due
+    pass_due: False
+  - date: 2017-10-14
+    text: Workshop
+    pass_due: False
+news:
+  - date: 2017-10-14
+    text: Workshop has been successfully held
+  - date: 2017-05-12
+    text: Submission site online
+  - date: 2017-03-08
+    text: Website online
+sponsors:
+  - name: CCT
+    logo_path: ./assets/images/sponsors/cct.png
+social_media:
+  facebook_link:
+  twitter_link:
+program_chair:
+  - name: Patrick Diehl
+    org: Louisiana State University (USA)
+    homepage: https://www.diehlpk.de/
+  - name: Hartmut Kaiser
+    org: Louisiana State University (USA)
+    homepage: https://www.lsu.edu/eng/cse/people/faculty/kaiser.php
+  - name: Steven R. Brandt
+    org: Louisiana State University (USA)
+    homepage: https://www.cct.lsu.edu/~sbrandt/
+steering_committees:
+  - name: Alex Aiken
+    org: Stanford (USA)
+    homepage: http://theory.stanford.edu/~aiken/
+  - name: Erwin Laure
+    org: Max Planck Computing & Data Facility (Germany)
+    homepage: https://www.mpcdf.mpg.de/staff/110539
+  - name: Christoph Junghans
+    org: Los Alamos National Laboratory (USA)
+    homepage: https://www.lanl.gov/search-capabilities/profiles/christoph-junghans.shtml
+  - name: Bryce Adelstein Lelbach
+    org: NVIDIA (USA)
+    homepage: https://www.linkedin.com/in/brycelelbach/
+  - name: Thomas Fahringer
+    org: University of Innsbruck (Austria)
+    homepage: http://dps.uibk.ac.at/~tf/
+  - name: Laxmikant V. Kale 
+    org: University of Illinois at Urbana-Champaign (USA)
+    homepage: https://cs.illinois.edu/about/people/all-faculty/kale
+  - name: Brad Chamberlain
+    org: HPE and University of Washington
+    homepage: https://homes.cs.washington.edu/~bradc/
+technical_program_committees:
+  - name: TBA
+    org: 
+    homepage: 
+webmaster:
+  - name: Patrick Diehl
+    org: Louisiana State University (USA)
+    homepage: https://www.diehlpk.de/
+
