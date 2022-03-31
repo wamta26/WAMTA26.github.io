@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   HotWeb is a forum bringing together researchers and practitioners interested 
   in the design, implementation, and evaluation of Internet systems and applications. 
 location: Baton Rouge, La, USA
-date: February, 2023
+date: February 15th to 17th, 2023
 logo_path: ./assets/images/logo2017.jpg
 slideshow:
   - id: 0
@@ -63,7 +63,7 @@ navbar:
   - id: 5
     label: Venue
     path: /venue.html
-    visible: False
+    visible: True
   - id: 6
     label: Registration
     path: /registration.html
@@ -132,7 +132,7 @@ technical_program_committees:
     org: 
     homepage: 
 webmaster:
-  - name: Patrick Diehl
+  - name: Parsa Amini
     org: Louisiana State University (USA)
-    homepage: https://www.diehlpk.de/
+    homepage: https://parsaamini.net/
 
