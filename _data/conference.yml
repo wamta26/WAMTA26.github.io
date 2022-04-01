@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 location: Baton Rouge, La, USA
 date: February 15th to 17th, 2023
 logo_path: ./assets/images/logo2017.jpg
+# logo_path: ./assets/images/logo.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
