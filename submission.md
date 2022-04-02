@@ -35,21 +35,18 @@ Camera-Ready Instructions:
 {: .text-info}
 </div>
 
-You will receive the information via your email for camera-ready
-instructions.
+You will receive the information via your email for camera-ready instructions.
 {% comment %}
 The Author's Final Paper Formatting and Submission Instructions can be found at:</p>
 
 <p style="padding-top: 6px;padding-bottom: 6px;">
-<a class="button"
-    href="http://www.ieeeconfpublishing.org/cpir/authorKit.asp?Facility=CPS_Nov&ERoom=HotWeb+2015"><span>Camera-ready
-    Author Kit</span></a></p>
+  <a class="button" href="http://www.ieeeconfpublishing.org/cpir/authorKit.asp?Facility=CPS_Nov&ERoom=HotWeb+2015">
+    <span>Camera-ready Author Kit</span>
+  </a>
+</p>
 
-<p>If you encounter any problem, please contact our editor, Lisa
-    O'Conner, for assistance.</p>
-
-    <p>Please note your final camera-ready is due to IEEE by
-    <b>September 25, 2015.</b>
+<p>If you encounter any problem, please contact our editor, Lisa O'Conner, for assistance.</p>
+<p>Please note your final camera-ready is due to IEEE by <b>September 25, 2015.</b></p>
 {% endcomment %}
 
 {% include contact-us.html %}
