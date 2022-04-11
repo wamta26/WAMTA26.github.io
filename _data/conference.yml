@@ -106,6 +106,9 @@ program_chair:
   - name: Steven R. Brandt
     org: Louisiana State University (USA)
     homepage: https://www.cct.lsu.edu/~sbrandt/
+  - name: Gerald Baumgartner
+    org: Louisiana State University (USA)
+    homepage: https://www.csc.lsu.edu/~gb/
 steering_committees:
   - name: Alex Aiken
     org: Stanford (USA)
