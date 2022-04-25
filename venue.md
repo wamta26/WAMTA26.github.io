@@ -24,8 +24,7 @@ The LSU Center for Computation and Technology, 340 E Parker Blvd, Baton Rouge, L
 <div class="text-info">Accomodations:</div>
 
 The following are the nearby hotels to the conference location. The
-workshop does not reserve a block in any hotel. Please reserve your
-hotel rooms soon since they are generally sold fast.
+workshop does reserve a block of rooms in one of the hotels. Details will be posted soon.
 
   - TBA
 
