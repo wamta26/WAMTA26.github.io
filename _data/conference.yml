@@ -69,6 +69,10 @@ navbar:
     label: Registration
     path: /registration.html
     visible: False
+  - id: 7
+    label: Keynote speakers
+    path: /keynote.html
+    visible: True
 deadlines:
   - date: 2023-02-15 
     text: Workshop starts
