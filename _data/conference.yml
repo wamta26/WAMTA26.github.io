@@ -74,6 +74,8 @@ deadlines:
     text: Workshop starts
     pass_due: False
 news:
+  - date: 2022-05-16
+    text: Damian Rouson (Lawrence Berkeley National Laboratory) announed as keynote speaker
   - date: 2022-04-25
     text: Website online
 sponsors:
