@@ -62,7 +62,7 @@ navbar:
     path: /program.html
     visible: False
   - id: 5
-    label: Venue
+    label: Venue/Lodging/Travel
     path: /venue.html
     visible: True
   - id: 6
@@ -80,8 +80,8 @@ deadlines:
 news:
   - date: 2022-05-16
     text: Damian Rouson (Lawrence Berkeley National Laboratory) announed as keynote speaker
-  - date: 2022-04-25
-    text: Website online
+  - date: 2022-07-07
+    text: George Bosilca (University of Tennessee, Knoxville) announced as keynote speaker
 sponsors:
   - name: CCT
     logo_path: ./assets/images/sponsors/cct.png
