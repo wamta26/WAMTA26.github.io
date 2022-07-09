@@ -10,7 +10,7 @@ slide_id: 3
 <div class="text-info">Submission Instructions:</div>
 
 Submitted talks are 20 minutes (15 minutes presentation and 5 minutes for questions). Please use EasyChair for your submissing. 
-The submission should not exceed 500 words and should not include references. 
+The submission should not exceed 500 words and should not include references. Please indicate by the topic if you are submititng a poster or talk. 
 
 
 To submit your abstract, please follow below link to the submission site:
