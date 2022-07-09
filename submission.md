@@ -9,12 +9,13 @@ slide_id: 3
 
 <div class="text-info">Submission Instructions:</div>
 
-Submitted talks are 20 minutes (15 minutes presentation and 5 minutes for questions). 
+Submitted talks are 20 minutes (15 minutes presentation and 5 minutes for questions). Please use EasyChair for your submissing. 
+The submission should not exceed 500 words and should not include references. 
 
 
 To submit your abstract, please follow below link to the submission site:
 
-[<i class="fa fa-external-link fa-fw" aria-hidden="true"></i> **Abstarct Submission Site**](https://easychair.org/conferences/?conf=wamta23)
+[<i class="fa fa-external-link fa-fw" aria-hidden="true"></i> **Abstract Submission Site**](https://easychair.org/conferences/?conf=wamta23)
 {: .text-center}
 
 Note that at least one of the authors of each abstract accepted for
