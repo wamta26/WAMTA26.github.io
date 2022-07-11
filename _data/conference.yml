@@ -104,6 +104,9 @@ program_chair:
   - name: Gerald Baumgartner
     org: Louisiana State University (USA)
     homepage: https://www.csc.lsu.edu/~gb/
+  - name: J. "Ram" Ramanujam
+    org: Louisiana State University (USA)
+    homepage: http://www.ece.lsu.edu/jxr/
 steering_committees:
   - name: Alex Aiken
     org: Stanford (USA)
