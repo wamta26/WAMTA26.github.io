@@ -138,7 +138,10 @@ technical_program_committees:
     homepage:
   - name: Brad Richardson
     org: Sourcery Institute, USA
-    homepage: 
+    homepage:
+  - name: Patricia Grubel
+    org: 
+    homepage: Los Alamos National Laboratory, USA 
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
