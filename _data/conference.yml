@@ -135,6 +135,9 @@ technical_program_committees:
     homepage: 
   - name: Irina Demeshko
     org: NVIDIA
+    homepage:
+  - name: Brad Richardson
+    org: Sourcery Institute, USA
     homepage: 
 webmaster:
   - name: Parsa Amini
