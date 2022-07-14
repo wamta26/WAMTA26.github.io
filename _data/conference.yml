@@ -130,8 +130,11 @@ steering_committees:
     org: HPE and University of Washington
     homepage: https://homes.cs.washington.edu/~bradc/
 technical_program_committees:
-  - name: TBA
-    org: 
+  - name: Bita Hasheminezhad
+    org: NASA Ames Research Center, USA
+    homepage: 
+  - name: Irina Demeshko
+    org: NVIDIA
     homepage: 
 webmaster:
   - name: Parsa Amini
