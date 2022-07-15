@@ -127,23 +127,42 @@ steering_committees:
     org: University of Illinois at Urbana-Champaign (USA)
     homepage: https://cs.illinois.edu/about/people/all-faculty/kale
   - name: Brad Chamberlain
-    org: HPE and University of Washington
+    org: HPE and University of Washington (USA)
     homepage: https://homes.cs.washington.edu/~bradc/
 technical_program_committees:
   - name: Bita Hasheminezhad
-    org: NASA Ames Research Center, USA
+    org: NASA Ames Research Center (USA)
     homepage: 
   - name: Irina Demeshko
     org: NVIDIA
     homepage:
   - name: Brad Richardson
-    org: Sourcery Institute, USA
+    org: Sourcery Institute (USA)
     homepage:
   - name: Patricia Grubel
     org: 
-    homepage: Los Alamos National Laboratory, USA 
+    homepage: Los Alamos National Laboratory (USA) 
   - name: Kevin Huck
-    org: University of Oregon, USA
+    org: University of Oregon (USA)
+    homepage:
+  - name: Pedro Valero Lara
+    org: Oak Ridge National Laboratory (USA)
+    homepage:
+  - name: Dirk Pflüger
+    org: University of Stuttgart (Germany)
+    homepage: 
+  - name: Metin H. Aktulga
+    org: Michigan State University (USA)
+    homepage:
+  - name: Roman Iakymchuk
+    org: Sorbonne Universite (France)
+    honepage:
+  - name:  Huda Ibeid 
+    org: Intel
+    homepage: 
+  - name: Ben Bergen 
+    org: Los Alamos National Laboratory (USA)
+    homepage: 
     homepage:
 webmaster:
   - name: Parsa Amini
