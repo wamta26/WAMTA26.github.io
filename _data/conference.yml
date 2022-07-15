@@ -142,6 +142,9 @@ technical_program_committees:
   - name: Patricia Grubel
     org: 
     homepage: Los Alamos National Laboratory, USA 
+  - name: Kevin Huck
+    org: University of Oregon, USA
+    homepage:
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
