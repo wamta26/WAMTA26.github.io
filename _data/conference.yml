@@ -162,8 +162,10 @@ technical_program_committees:
     homepage: 
   - name: Ben Bergen 
     org: Los Alamos National Laboratory (USA)
-    homepage: 
     homepage:
+  - name: Dirk Pleiter
+    org: KTH Royal Institute of Technology (Sweden)
+    homepage: 
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
