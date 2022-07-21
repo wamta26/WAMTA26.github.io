@@ -171,6 +171,9 @@ technical_program_committees:
     homepage:  
   - name: Keita Teranishi
     org: Sandia National Laboratories (USA)
+    homepage:
+  - name: Abhinav Bhatele
+    org: University of Maryland, College Park (USA)
     homepage:  
 webmaster:
   - name: Parsa Amini
