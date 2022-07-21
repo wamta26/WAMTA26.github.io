@@ -31,7 +31,7 @@ Conference lodging has been reserved as follows:
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3440.7966517404784!2d-91.17204198437615!3d30.413510781749583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8626a6d979717097%3A0xc9ecc00cce92e6e1!2sThe%20Cook%20Hotel%20and%20Conference%20Center%20at%20LSU!5e0!3m2!1sen!2sus!4v1658270824657!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
-* (866) 610-2665
+* For any questions or concer, please call the hotel at (866) 610-2665.
 * Rate: $119/night (includes breakfast at Shaquille R. O'Neal Lodge from 6:00 AM until 9:30 AM). 
 * Please [reserve online](https://reservations.travelclick.com/110626?groupID=3574762) by January 14th, 2023, to secure this rate.
 
