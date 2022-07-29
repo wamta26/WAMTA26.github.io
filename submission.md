@@ -21,10 +21,12 @@ To submit your abstract, please follow below link to the submission site:
 Note that at least one of the authors of each abstract accepted for
 presentation in WAMTA 23 must be registered.
 
+
+<div class="text-info">Submission of workshop proceedings:</div>
+
 </div>
 
 
-<div class="text-info">Submission of workshop proceedings:</div>
 
 
 
