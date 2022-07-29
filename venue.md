@@ -75,7 +75,6 @@ LSU is the flagship university for Louisiana, supporting land, sea, and space gr
 * [Tiger Trails](https://www.lsu.edu/parking/transportation/tigertrails.php)
 * [LSU Parking Map](https://www.lsu.edu/parking/parking/maps.php)
 * [LSU Visitor Parking Map](https://www.lsu.edu/parking/files/maps/Visitor_Parking_Nov2015.pdf)
-
 * [Visit Baton Rouge](https://www.visitbatonrouge.com/)
 
 </div>
