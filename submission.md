@@ -24,11 +24,6 @@ presentation in WAMTA 23 must be registered.
 
 <div class="text-info">Submission of workshop proceedings:</div>
 
-</div>
-
-
-
-
 
 {% include contact-us.html %}
 
