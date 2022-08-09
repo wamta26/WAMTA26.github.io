@@ -31,3 +31,15 @@ slide_id: 1
 		-->
 	</p>
 </div>
+
+<div class="card">
+    <div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
+    <h5>TBA</h5>
+    <p>Speaker: Michelle Strout, The University of Arizona and HPE</p>
+</div>
+
+<div class="card">
+    <div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
+    <h5>TBA</h5>
+    <p>Speaker: George Bosilca, University of Tennessee, Knoxville</p>
+</div>
