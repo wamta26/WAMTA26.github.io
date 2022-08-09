@@ -29,7 +29,7 @@ Authors need to submit their work through EasyChair. Submissions must be in Spri
 
 At least three program committee members will review each submission. Reviews will be double-blind, and papers get assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers. All submitted manuscripts will be checked for originality by <a href="https://www.ithenticate.com/">iThenticate</a> (papers that show an insufficient originality might be rejected without a review).
 
-[<i class="fa fa-external-link fa-fw" aria-hidden="true"></i> **Abstract Submission Site**](https://easychair.org/conferences/?conf=wamta23)
+[<i class="fa fa-external-link fa-fw" aria-hidden="true"></i> **Proceeding Paper  Submission Site**](https://easychair.org/conferences/?conf=wamta23)
 {: .text-center}
 
 {% include contact-us.html %}
