@@ -12,8 +12,8 @@ slide_id: 0
 
 ##### WELCOME TO WAMTA 2023\!
 
-The WAMTA 2023 workshop is scheduled on February 14, 2023 and will be
-held at Baton Rouge, LA, USA.
+The WAMTA 2023 workshop is scheduled as a <b>hybrid</b> event on February 14, 2023 and will be
+held at Baton Rouge, LA, USA. 
 {: .lead}
 
 As our compute capacity grows, science simulations are not only becoming
