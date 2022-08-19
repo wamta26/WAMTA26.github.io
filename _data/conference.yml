@@ -98,6 +98,8 @@ news:
 sponsors:
   - name: CCT
     logo_path: ./assets/images/sponsors/cct.png
+  - name: TCL
+    logo_path: ./assets/images/sponsors/tcl.png
 social_media:
   facebook_link:
   twitter_link:
