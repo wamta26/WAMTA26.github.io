@@ -18,8 +18,6 @@ Please register for the workshop at <a href="https://www.eventbrite.com/e/worksh
 If you are an international traveler and needs a visa to enter the U.S.,
 please contact <a href="mailto:kjones@cct.lsu.edu">Karen Jones</a>.
 
-{% include contact-us.html %}
-
 </div>
 
 </div>
