@@ -190,6 +190,12 @@ technical_program_committees:
   - name: Daisy Hollman
     org: Google
     homepage:  
+  - name: Gregor Daiß
+    org: University of Stuttgart (Germany)
+    homepage:  
+  - name: Najoude Nader 
+    org: Louisiana State University (USA)
+    homepage:  
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
