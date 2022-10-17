@@ -73,8 +73,8 @@ navbar:
     path: /keynote.html
     visible: True
 deadlines:
-  - date: 2022-10-15 
-    text: Deadline for abstract and poster submission
+  - date: 2022-10-24 
+    text: Deadline for abstract and poster submission (Extended)
     pass_due: False
   - date: 2022-11-01
     text: Author notification for poster and talks
