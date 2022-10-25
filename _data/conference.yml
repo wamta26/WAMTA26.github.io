@@ -202,6 +202,13 @@ technical_program_committees:
   - name: Dominic Marcello 
     org: Louisiana State University (USA)
     homepage:  
+  - name: Sebastian Eibl  
+    org:  Max Planck Computing & Data Facility (Germany)
+    homepage:  
+  - name:  Sebastian Ohlmann
+    org:  Max Planck Computing & Data Facility (Germany)
+    homepage:  
+
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
