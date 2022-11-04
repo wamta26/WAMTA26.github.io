@@ -2,7 +2,7 @@ full_title: Workshop on Asynchronous Many-Task Systems and Applications 2023
 short_title: WAMTA 23
 email: patrickdiehl@lsu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The workshop on Asynchronous Many-Task Systems and Applications brings together AMT developers and application developers. 
+  The workshop on Asynchronous Many-Task Systems and Applications brings together AMT developers and application developers.
 location: Baton Rouge, LA, USA
 date: February 15th to 17th, 2023
 # logo_path: ./assets/images/logo2017.jpg
@@ -73,7 +73,7 @@ navbar:
     path: /keynote.html
     visible: True
 deadlines:
-  - date: 2022-10-24 
+  - date: 2022-10-24
     text: Deadline for abstract and poster submission (Extended)
     pass_due: False
   - date: 2022-11-01
@@ -119,7 +119,7 @@ program_chair:
   - name: J. "Ram" Ramanujam
     org: Louisiana State University (USA)
     homepage: http://www.ece.lsu.edu/jxr/
-steering_committees:
+steering_committee:
   - name: Alex Aiken
     org: Stanford (USA)
     homepage: http://theory.stanford.edu/~aiken/
@@ -135,13 +135,13 @@ steering_committees:
   - name: Thomas Fahringer
     org: University of Innsbruck (Austria)
     homepage: http://dps.uibk.ac.at/~tf/
-  - name: Laxmikant V. Kale 
+  - name: Laxmikant V. Kale
     org: University of Illinois at Urbana-Champaign (USA)
     homepage: https://cs.illinois.edu/about/people/all-faculty/kale
   - name: Brad Chamberlain
     org: HPE and University of Washington (USA)
     homepage: https://homes.cs.washington.edu/~bradc/
-technical_program_committees:
+technical_program_committee:
   - name: Bita Hasheminezhad
     org: NASA Ames Research Center (USA)
     homepage: 
@@ -152,7 +152,7 @@ technical_program_committees:
     org: Sourcery Institute (USA)
     homepage:
   - name: Patricia Grubel
-    org: Los Alamos National Laboratory (USA) 
+    org: Los Alamos National Laboratory (USA)
     homepage: 
   - name: Kevin Huck
     org: University of Oregon (USA)
@@ -169,10 +169,10 @@ technical_program_committees:
   - name: Roman Iakymchuk
     org: Sorbonne Universite (France)
     honepage:
-  - name:  Huda Ibeid 
+  - name:  Huda Ibeid
     org: Intel
     homepage: 
-  - name: Ben Bergen 
+  - name: Ben Bergen
     org: Los Alamos National Laboratory (USA)
     homepage:
   - name: Dirk Pleiter
@@ -180,7 +180,7 @@ technical_program_committees:
     homepage:
   - name: Didem Unat
     org: Koç University (Turkey)
-    homepage:  
+    homepage: 
   - name: Keita Teranishi
     org: Sandia National Laboratories (USA)
     homepage:
@@ -189,28 +189,38 @@ technical_program_committees:
     homepage:
   - name: Daisy Hollman
     org: Google
-    homepage:  
+    homepage: 
   - name: Gregor Daiß
     org: University of Stuttgart (Germany)
-    homepage:  
-  - name: Najoude Nader 
+    homepage: 
+  - name: Najoude Nader
     org: Louisiana State University (USA)
-    homepage:  
-  - name: Rod Thoid 
+    homepage: 
+  - name: Rod Tohid
     org: Louisiana State University (USA)
-    homepage:  
-  - name: Dominic Marcello 
+    homepage: 
+  - name: Dominic Marcello
     org: Louisiana State University (USA)
-    homepage:  
-  - name: Sebastian Eibl  
-    org:  Max Planck Computing & Data Facility (Germany)
-    homepage:  
+    homepage: https://www.phys.lsu.edu/~dmarcel/
+  - name: Sebastian Eibl
+    org: Max Planck Computing & Data Facility (Germany)
+    homepage: 
   - name:  Sebastian Ohlmann
-    org:  Max Planck Computing & Data Facility (Germany)
-    homepage:  
+    org: Max Planck Computing & Data Facility (Germany)
+    homepage: 
+
+technical_program_chair:
+  - name:  Patrick Diehl
+    org: Louisiana State University (USA)
+    homepage: https://www.diehlpk.de/
+  - name: Hartmut Kaiser
+    org: Louisiana State University (USA)
+    homepage: https://www.lsu.edu/eng/cse/people/faculty/kaiser.php
+  - name: Peter Thoman
+    org: University of Innsbruck (Austria)
+    homepage: https://dps.uibk.ac.at/~petert/
 
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
     homepage: https://www.parsaamini.net/
-
