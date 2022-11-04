@@ -46,31 +46,31 @@ navbar:
     visible: True
   - id: 1
     label: Organization
-    path: /organization.html
+    path: /organization
     visible: True
   - id: 2
     label: Call for Papers
-    path: /cfp.html
+    path: /cfp
     visible: True
   - id: 3
     label: Submission
-    path: /submission.html
+    path: /submission
     visible: True
   - id: 4
     label: Programs
-    path: /program.html
+    path: /program
     visible: False
   - id: 5
     label: Venue/Lodging/Travel
-    path: /venue.html
+    path: /venue
     visible: True
   - id: 6
     label: Registration
-    path: /registration.html
+    path: /registration
     visible: True
   - id: 7
     label: Keynote speakers
-    path: /keynote.html
+    path: /keynote
     visible: True
 deadlines:
   - date: 2022-10-24
