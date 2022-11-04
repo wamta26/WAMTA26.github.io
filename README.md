@@ -16,9 +16,9 @@ An academic conference website template built using Jekyll.
     - `sponsors`: sponsor section.
     - `deadlines`: important dates of deadlines, pass-due date will be automatically printed with del line.
     - `social_media`: social media on the navbar. (current support facebook and twitter.)
-    - `organizing_committees`: organzizing committees
-    - `steering_committees`: steering committees
-    - `technical_program_committees`: technical program committees
+    - `organizing_committee`: organzizing committee
+    - `steering_committee`: steering committee
+    - `technical_program_committee`: technical program committee
     - more configuratioins to come.
 - Google Analytics: in `_config.yml`
 - Font-awesome
@@ -29,8 +29,8 @@ An academic conference website template built using Jekyll.
 ### home page
 ![home page image](./preview/home.png)
 
-### committees page
-![committees page image](./preview/committee.png)
+### committee page
+![committee page image](./preview/committee.png)
 
 ### Deadlines
 
