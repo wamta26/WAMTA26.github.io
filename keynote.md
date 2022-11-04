@@ -8,6 +8,7 @@ slide_id: 1
 	<h5>Title: PGAS: A View from Berkeley</h5>
 	<p>Speaker: Damian Rouson, Lawrence Berkeley National Laboratory</p>
 
+	<div style="margin: 10px">
 	<p markdown="1">
 		Partitioned Global Address Space (PGAS) programming models, languages, and libraries offer HPC software
 		developers a set of abstractions that facilitate parallel communication and computation, including remote memory
@@ -30,16 +31,22 @@ slide_id: 1
 		[6] UPC++ DepSpawn: https://github.com/UDC-GAC/upcxx_depspawn
 		-->
 	</p>
+	</div>
 </div>
 
 <div class="card">
-    <div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
-    <h5>TBA</h5>
-    <p>Speaker: Michelle Strout, The University of Arizona and HPE</p>
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
+	<div style="margin: 10px">
+	<h5>TBA</h5>
+	<p>Speaker: Michelle Strout, The University of Arizona and HPE</p>
+	</div>
 </div>
 
 <div class="card">
-    <div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
-    <h5>TBA</h5>
-    <p>Speaker: George Bosilca, University of Tennessee, Knoxville</p>
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
+
+	<div style="margin: 10px">
+	<h5>TBA</h5>
+	<p>Speaker: George Bosilca, University of Tennessee, Knoxville</p>
+	</div>
 </div>
