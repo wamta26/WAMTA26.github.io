@@ -72,6 +72,14 @@ navbar:
     label: Keynote speakers
     path: /keynote
     visible: True
+  - id: 8
+    label: Schedule
+    path: /assets/schedule.pdf
+    visible: True
+  - id: 9
+    label: Book of Abstracts
+    path: /assets/book-of-abstracts.pdf
+    visible: True
 deadlines:
   - date: 2022-10-24
     text: Deadline for abstract and poster submission (Extended)
