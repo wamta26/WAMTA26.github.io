@@ -51,6 +51,15 @@ The topics of interest include, but are by no means limited to:
   - Challenges to task-based runtimes in scaling to large clusters
   - Hardware challenges and solutions in using task-based environments
 
+
+### Schedule
+
+* [schedule.pdf](/assets/schedule.pdf)
+
+### Book of Abstracts
+
+* [book-of-abstracts.pdf](/assets/book-of-abstracts.pdf)
+
 {% include contact-us.html %}
 
 </div>
