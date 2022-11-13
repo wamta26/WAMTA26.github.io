@@ -20,4 +20,6 @@ slide_id: 4
 	});
 </script>
 
+* [Schedule](/assets/schedule.pdf)
+
 {% include contact-us.html %}
