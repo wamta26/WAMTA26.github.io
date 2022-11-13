@@ -20,6 +20,9 @@ slide_id: 4
 	});
 </script>
 
-* [Schedule](/assets/schedule.pdf)
+<ul>
+<li> <a href="/assets/schedule.pdf">Schedule </a> </li>
+</ul>
+
 
 {% include contact-us.html %}
