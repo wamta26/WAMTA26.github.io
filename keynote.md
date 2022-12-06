@@ -37,8 +37,9 @@ slide_id: 1
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
 		<div style="margin: 10px">
-		<h5>TBA</h5>
+		<h5>Application Examples of Leveraging Task Parallelism with Chapel</h5>
 		<p>Speaker: Michelle Strout, The University of Arizona and HPE</p>
+        The Chapel programming language provides constructs for expressing a wide range of parallelism patterns, while also remaining easy-to-use. This talk will show usage examples from machine learning, data analytics, aeronautical engineering, hydrology, and other application areas. Perspectives of how existing workflows were adjusted to leverage Chapel and the resulting performance and scaling will also be presented.
 	</div>
 </div>
 
