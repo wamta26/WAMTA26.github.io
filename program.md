@@ -23,6 +23,7 @@ slide_id: 4
 <ul>
 <li> <a href="/assets/schedule.pdf">Schedule </a> </li>
 <li> <a href="/assets/book-of-abstracts.pdf"> Book of Abstracts </a> </li>
+<li> <a href="/shortcourse"> Short course: Modern STL </a> </li>
 </ul>
 
 
