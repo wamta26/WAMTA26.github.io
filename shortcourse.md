@@ -18,24 +18,17 @@ In the course participants will learn the following:
 
 Modern STL Basics:
 
-     - Algorithms (e.g. the various sorts() algorithms we have and why)
-
-     - Data structures including unordered containers
-
-     - Iterators (and why raw pointers can be used like them)
+    * Algorithms (e.g. the various sorts() algorithms we have and why)
+    * Data structures including unordered containers
+    * Iterators (and why raw pointers can be used like them)
 
 Then on top of that:
 
-   - Lambdas (and "callables" for algorithms, maybe including function objects)
-
-   - Iterators categories and why raw pointers work for iterators
-
-   - How generic programming helps (incl. how std::array is implemented)
-
-   - Parallel algorithms
-
-   - C++20 Ranges and  views (and how views compromise certain C++/STL principles)
-
+   * Lambdas (and "callables" for algorithms, maybe including function objects)
+   * Iterators categories and why raw pointers work for iterators
+   * How generic programming helps (incl. how std::array is implemented)
+   * Parallel algorithms
+   * C++20 Ranges and  views (and how views compromise certain C++/STL principles)
 
 {% include contact-us.html %}
 
@@ -45,7 +38,7 @@ Then on top of that:
 
 **Important Dates**:
 
-**Registration:** February 1, 2023 ([Registraiton](https://www.eventbrite.com/e/workshop-on-asynchronous-many-task-systems-and-applications-2023-registration-413011627897))
+**Registration:** February 1, 2023 ([Registration](https://www.eventbrite.com/e/workshop-on-asynchronous-many-task-systems-and-applications-2023-registration-413011627897))
 
 **Dates** February 13-14
 
