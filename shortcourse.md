@@ -18,9 +18,9 @@ In the course participants will learn the following:
 
 Modern STL Basics:
 
-    * Algorithms (e.g. the various sorts() algorithms we have and why)
-    * Data structures including unordered containers
-    * Iterators (and why raw pointers can be used like them)
+  * Algorithms (e.g. the various sorts() algorithms we have and why)
+  * Data structures including unordered containers
+  * Iterators (and why raw pointers can be used like them)
 
 Then on top of that:
 
