@@ -209,6 +209,9 @@ technical_program_committee:
     homepage: 
   - name:  Sebastian Ohlmann
     org: Max Planck Computing & Data Facility (Germany)
+    homepage:
+  - name: Weile Wei
+    org: Lawrence Berkeley National Laboratory (USA)
     homepage: 
 
 technical_program_chair:
