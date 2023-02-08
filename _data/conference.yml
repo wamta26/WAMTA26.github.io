@@ -102,6 +102,8 @@ sponsors:
     logo_path: ./assets/images/sponsors/tcl.png
   - name: HPE
     logo_path: ./assets/images/sponsors/hplogo_black.png
+  - name: NSF
+    logo_path: ./assets/images/sponsors/nsf.png
 social_media:
   facebook_link:
   twitter_link:
