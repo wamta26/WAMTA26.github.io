@@ -213,6 +213,9 @@ technical_program_committee:
   - name: Weile Wei
     org: Lawrence Berkeley National Laboratory (USA)
     homepage: 
+  - name: Jeff Hammond
+    org: NVIDIA (Finland) 
+    homepage:
 
 technical_program_chair:
   - name:  Patrick Diehl
