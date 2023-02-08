@@ -75,13 +75,13 @@ navbar:
 deadlines:
   - date: 2022-10-24
     text: Deadline for abstract and poster submission (Extended)
-    pass_due: False
+    pass_due: true
   - date: 2022-11-01
     text: Author notification for poster and talks
-    pass_due: false
+    pass_due: ture
   - date: 2023-01-15
     text: Deadline for proceedings paper submission
-    pass_due: false
+    pass_due: true
   - date: 2023-02-08
     text: Author notificaiton for proceedings papers
     pass_due: false
