@@ -47,63 +47,41 @@ navbar:
   - id: 1
     label: Organization
     path: /organization
-    visible: True
+    visible: False
   - id: 2
     label: CfP
     path: /cfp
-    visible: True
+    visible: False
   - id: 3
     label: Submission
     path: /submission
-    visible: True
+    visible: False
   - id: 4
     label: Program
     path: /program
-    visible: True
+    visible: False
   - id: 5
     label: Travel
     path: /venue
-    visible: True
+    visible: False
   - id: 6
     label: Registration
     path: /registration
-    visible: True
+    visible: False
   - id: 7
     label: Keynote speakers
     path: /keynote
-    visible: True
+    visible: False
 deadlines:
-  - date: 2022-10-24
-    text: Deadline for abstract and poster submission (Extended)
-    pass_due: true
-  - date: 2022-11-01
-    text: Author notification for poster and talks
-    pass_due: ture
-  - date: 2023-01-15
-    text: Deadline for proceedings paper submission
-    pass_due: true
-  - date: 2023-02-08
-    text: Author notification for proceedings papers
-    pass_due: true
-  - date: 2023-02-19
-    text: Deadline for camera-ready paper submission
-    pass_due: true
+  - date: 
+    text: 
+    pass_due: False
 news:
-  - date: 2022-05-16
-    text: Damian Rouson (Lawrence Berkeley National Laboratory) announed as keynote speaker
-  - date: 2022-07-07
-    text: George Bosilca (University of Tennessee, Knoxville) announced as keynote speaker
-  - date: 2022-08-03
-    text: Michelle Strout (University of Arizona and HPE) announced as keynote speaker
+  - date: 
+    text: 
 sponsors:
-  - name: CCT
-    logo_path: ./assets/images/sponsors/cct.png
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
-  - name: HPE
-    logo_path: ./assets/images/sponsors/hplogo_black.png
-  - name: NSF
-    logo_path: ./assets/images/sponsors/nsf.png
 social_media:
   facebook_link:
   twitter_link:
