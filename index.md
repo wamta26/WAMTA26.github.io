@@ -10,10 +10,10 @@ slide_id: 0
 
 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 text-justify conference-text" markdown="1">
 
-##### WELCOME TO WAMTA 2023\!
+##### WELCOME TO WAMTA 2024\!
 
-The WAMTA 2023 workshop is scheduled as a <b>hybrid</b> event in February 2023 and will be
-held at Baton Rouge, LA, USA. 
+The WAMTA 2024 workshop is scheduled as a <b>hybrid</b> event in February 2024 and will be
+held at Knoxville, TN, USA. 
 {: .lead}
 
 As our compute capacity grows, science simulations are not only becoming
