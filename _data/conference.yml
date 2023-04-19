@@ -78,7 +78,7 @@ deadlines:
     pass_due: False
 news:
   - date: 
-    text: 
+    text: Jeffrey S. Vetter (Oak Ridge National Laboratory) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
