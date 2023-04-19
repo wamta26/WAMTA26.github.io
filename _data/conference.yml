@@ -84,6 +84,8 @@ sponsors:
     logo_path: ./assets/images/sponsors/tcl.png
   - name: CCT
     logo_path: ./assets/images/sponsors/cct.png
+  - name: ICL
+    logo_path: ./assets/images/sponsors/icl-1.png
 social_media:
   facebook_link:
   twitter_link:
