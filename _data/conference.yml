@@ -53,7 +53,7 @@ deadlines:
     pass_due: False
 news:
   - date: 
-    text: Jeffrey S. Vetter (Oak Ridge National Laboratory) confirmed as keynote speaker. 
+    text: Sean Treichler(NVIDIA) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
@@ -156,8 +156,6 @@ technical_program_committee:
   - name: Markus Rampp
     org: Max Planck Computing and Data Facility (Germany)
     homepage:
-  
-
 technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
@@ -168,7 +166,6 @@ technical_program_chair:
   - name: Peter Thoman
     org: University of Innsbruck (Austria)
     homepage: https://dps.uibk.ac.at/~petert/
-
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
