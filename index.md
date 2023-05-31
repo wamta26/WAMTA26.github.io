@@ -50,6 +50,10 @@ The topics of interest include, but are by no means limited to:
   - Tools for debugging programs using task-based runtimes
   - Challenges to task-based runtimes in scaling to large clusters
   - Hardware challenges and solutions in using task-based environments
+  
+Previous events:
+  
+* [WAMTA 2023](https://wamta23.stellar-group.org/) @ [CCT](https://www.cct.lsu.edu/)/[LSU](https://lsu.edu/)
 
 {% include contact-us.html %}
 
