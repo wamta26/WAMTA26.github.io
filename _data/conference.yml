@@ -98,10 +98,7 @@ steering_committee:
 technical_program_committee:
   - name: Brad Richardson
     org: Sourcery Institute (USA)
-    homepage:
-  - #name: Patricia Grubel
-    #org: Los Alamos National Laboratory (USA)
-    #homepage: 
+    homepage: 
   - name: Kevin Huck
     org: University of Oregon (USA)
     homepage:
@@ -117,9 +114,6 @@ technical_program_committee:
   - name:  Huda Ibeid
     org: Intel
     homepage: 
-  - #name: Ben Bergen
-    #org: Los Alamos National Laboratory (USA)
-    #homepage:
   - name: Dirk Pleiter
     org: KTH Royal Institute of Technology (Sweden)
     homepage:
@@ -155,6 +149,12 @@ technical_program_committee:
     homepage:
   - name: Markus Rampp
     org: Max Planck Computing and Data Facility (Germany)
+    homepage:
+  - name: Sumathi Lakshmiranganatha
+    org: Los Alamos National Laboratory (USA)
+    homepage:
+  - name: Nikunj Gupta
+    org: Amazon (USA)
     homepage:
 technical_program_chair:
   - name:  Patrick Diehl
