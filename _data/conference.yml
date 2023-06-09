@@ -53,7 +53,9 @@ deadlines:
     pass_due: False
 news:
   - date: 
-    text: Sean Treichler(NVIDIA) confirmed as keynote speaker. 
+    text: Sean Treichler (NVIDIA) confirmed as keynote speaker. 
+  - date: 
+    text: Jeffrey Vetter (ORNL) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
