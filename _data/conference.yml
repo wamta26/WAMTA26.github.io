@@ -160,12 +160,12 @@ technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
     homepage: https://www.diehlpk.de/
-  - name: Hartmut Kaiser
-    org: Louisiana State University (USA)
-    homepage: https://www.lsu.edu/eng/cse/people/faculty/kaiser.php
-  - name: Peter Thoman
-    org: University of Innsbruck (Austria)
-    homepage: https://dps.uibk.ac.at/~petert/
+  - name: Pedro Valero Lara 
+    org:  Oak Ridge National Laboratory (USA)
+    homepage: https://www.ornl.gov/staff-profile/pedro-valero-lara 
+  - name: George Bosilca
+    org:  University of Tennessee, Knoxville (USA)
+    homepage: https://icl.utk.edu/~bosilca/
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
