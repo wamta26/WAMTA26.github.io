@@ -48,8 +48,17 @@ navbar:
     path: /keynote
     visible: False
 deadlines:
-  - date: 
-    text: 
+  - date: 01/15/2024
+    text: Deadline for proceedings paper submission
+    pass_due: False
+  - date: 02/05/2024
+    text: Author notification for proceedings papers
+    pass_due: False
+  - date: 02/05/2024
+    text: Author notification for proceedings papers
+    pass_due: False
+  - date: 02/23/2024
+    text: Deadline for camera-ready paper submission
     pass_due: False
 news:
   - date: 
