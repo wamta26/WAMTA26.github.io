@@ -68,6 +68,8 @@ news:
     text: Sean Treichler (NVIDIA) confirmed as keynote speaker. 
   - date: 
     text: Jeffrey Vetter (ORNL) confirmed as keynote speaker. 
+  - date: 
+    text: Richard Harrison (Stony Brook University) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
