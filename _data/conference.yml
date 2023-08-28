@@ -169,6 +169,9 @@ technical_program_committee:
   - name: Nikunj Gupta
     org: Amazon (USA)
     homepage:
+  - name: Jonas Posner
+    org: University of Kassel (Germany)
+    homepage:
 technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
