@@ -9,7 +9,6 @@ slide_id: 1
 		<h5>TBA</h5>
 		<p>Sean Treichler, NVIDIA</p>
 
-		</p>
 	</div>
 </div>
 
