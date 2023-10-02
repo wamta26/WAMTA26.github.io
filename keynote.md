@@ -14,7 +14,7 @@ application code written directly to the Legion API, but more recently the visio
 levels of abstraction is coming to fruition. I will review several of these efforts, talk about their successes in 
 scaling (whether to larger systems, larger workloads, or larger programmer audiences), and that will lead me into
 discussion of some key challenges that are becoming more critical as this scaling continues.
-<br>
+<br><br>
 Legion, and really all AMT systems, are at risk of becoming victims of their success. If anything, they are too good
 at extracting parallelism from application code, and this manifests as increasing demands on the runtime portions
 of these systems at larger scales. Much of the analysis and decision making being performed in real time (and
