@@ -35,11 +35,11 @@ The Best Paper/Poster Award will be selected on the basis of explicit recommenda
 
 **Important Dates**:
 
-**Submission Deadline:** January 15, 2023
+**Submission Deadline:** January 15, 2024
 
-**Notification of Acceptance:** February 8, 2023
+**Notification of Acceptance:** February 8, 2024
 
-**Camera-ready paper:** February 19, 2023
+**Camera-ready paper:** February 19, 2024
 
 </div>
 
