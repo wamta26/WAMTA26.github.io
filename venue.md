@@ -33,9 +33,9 @@ Conference lodging has been reserved as follows:
 
 <div class="text-info">Travel by air</div>
 
-Knoxville is easily accessible via the [McGhee Tyson Airport](https://www.flyknoxville.com/), aka. TYS, with non-stop service from national gateways such as Atlanta, Dallas, New York, Chicago, Phoenix and Houston provided by Delta, United, American, and US Airways.
+Knoxville is easily accessible via the [McGhee Tyson Airport](https://www.flyknoxville.com/), aka. TYS, with non-stop service from national gateways such as Atlanta, Detroit, Washington DC, New York, Chicago, and Charlotte provided by Delta, United, and American.
 
-Travel to and from the airport to downtown taxes about 20 minutes. There is no shuttle, but Uber/Lyft or [local taxis](https://www.flyknoxville.com/ground-transportation/#tbTaxis) can provide this service. 
+Travel to and from the airport to downtown takes about 20 minutes. There is no shuttle, but Uber/Lyft or [local taxis](https://www.flyknoxville.com/ground-transportation/#tbTaxis) can provide this service. 
 
 </div>
 
