@@ -21,6 +21,10 @@ This workshop explores the advantages of task-based programming on modern and fu
 
 Authors need to submit their work through [EasyChair](https://easychair.org/conferences/?conf=wamta23). Submissions must be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
+**Abstracts**:
+
+Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (December 14th) and later submit the short or full paper (January 15th).  
+
 **Full Papers**:
 Authors are invited to submit original papers of between ten and twelve pages, including text, the references section, appendices, and figures.
 
