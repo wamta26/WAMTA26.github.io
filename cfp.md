@@ -25,7 +25,7 @@ Authors need to submit their work through [EasyChair](https://easychair.org/conf
 Authors are invited to submit original papers of between ten and twelve pages, including text, the references section, appendices, and figures.
 
 **Short Papers**:
-Authors may also opt-in to submit position papers and work-in-progress as short papers of at most 6 pages in length, which include tables, figures, references, and appendices.
+Alternative authors submit position papers and work-in-progress as short papers of at most 6 pages in length, which include tables, figures, references, and appendices.
 
 At least three program committee members will review each submission. Reviews will be double-blind, and papers will be assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers.
 All submitted manuscripts will be checked for originality by [iThenticate](https://www.ithenticate.com/) (papers that show insufficient originality might be rejected without a review).
