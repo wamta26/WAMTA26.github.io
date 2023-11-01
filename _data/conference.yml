@@ -38,7 +38,7 @@ navbar:
   - id: 5
     label: Travel
     path: /venue
-    visible: False
+    visible: True
   - id: 6
     label: Registration
     path: /registration
