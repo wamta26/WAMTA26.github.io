@@ -12,7 +12,7 @@ slide_id: 0
 
 ##### WELCOME TO WAMTA 2024\!
 
-The WAMTA 2024 workshop is scheduled as a <b>hybrid</b> event in February 2024 and will be
+The WAMTA 2024 workshop is scheduled as a <b>in-person</b> event in February 2024 and will be
 held at Knoxville, TN, USA. 
 {: .lead}
 
