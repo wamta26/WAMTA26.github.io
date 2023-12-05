@@ -11,7 +11,7 @@ slide_id: 5
 
 ##### REGISTRATION
 
-Please register for the workshop at <a href="https://utconferences.eventsair.com/wamta-2024/wamta2024-register">here</a>. For all questions and concerns about the registration contact <a href="mailto:schuchart@icl.utk.edu">Joseph Schuchart</a>.
+Please register for the workshop <a href="https://utconferences.eventsair.com/wamta-2024/wamta2024-register">here</a>. For all questions and concerns about the registration contact <a href="mailto:schuchart@icl.utk.edu">Joseph Schuchart</a>.
 
 ##### VISA INFO:
 
