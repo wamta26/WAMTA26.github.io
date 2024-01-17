@@ -54,7 +54,7 @@ deadlines:
   - date: 21/12/2023
     text: Author notification for poster and talks
     pass_due: False
-  - date: 15/01/2024
+  - date: 02/02/2024
     text: Deadline for proceedings paper submission
     pass_due: False
   - date: 05/02/2024
