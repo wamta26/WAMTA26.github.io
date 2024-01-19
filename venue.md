@@ -29,7 +29,7 @@ Conference lodging has been reserved as follows:
 </center>
 * For any questions or concern, please call the hotel directly at (865) 523-2300.
 * Rate: government rate (includes breakfast from 6:00 AM until 9:30 AM).
-* Please [reserve online](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=KNXKHHF&groupCode=WAMTA&arrivaldate=2024-02-13&departuredate=2024-02-17&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) by January 14th, 2024, to secure this rate.
+* Please [reserve online](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=KNXKHHF&groupCode=WAMTA&arrivaldate=2024-02-13&departuredate=2024-02-17&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) by January 23th, 2024, to secure this rate.
 
 <div class="text-info">Travel by air</div>
 
