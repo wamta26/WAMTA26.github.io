@@ -50,17 +50,17 @@ navbar:
 deadlines:
   - date: 14/12/2023
     text: Deadline for abstract and poster submission
-    pass_due: False
+    pass_due: true
   - date: 21/12/2023
     text: Author notification for poster and talks
-    pass_due: False
-  - date: 02/02/2024
+    pass_due: true
+  - date: 02/07/2024
     text: Deadline for proceedings paper submission
     pass_due: False
-  - date: 05/02/2024
+  - date: 02/21/2024
     text: Author notification for proceedings papers
     pass_due: False
-  - date: 23/02/2024
+  - date: 02/29/2024
     text: Deadline for camera-ready paper submission
     pass_due: False
 news:
