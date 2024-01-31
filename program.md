@@ -22,7 +22,7 @@ slide_id: 4
 
 <ul>
 <li> <a href="/assets/timetable.pdf">Schedule </a> </li>
-<li> <a href="/assets/wamta24_abstracts.pdf.pdf"> Book of Abstracts </a> </li>
+<li> <a href="/assets/wamta24_abstracts.pdf"> Book of Abstracts </a> </li>
 </ul>
 
 <!--<li> <a href="/shortcourse"> Short course: Modern STL </a> </li>-->
