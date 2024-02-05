@@ -3,6 +3,8 @@ layout: page
 slide_id: 4
 ---
 
+The venue for all talks is the University of Tennessee, Knoxville Student Union Building, <b>Room 169</b>, 1502 Cumberland Avenue, Knoxville, TN 37996.
+
 <div class="row">
 
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-1">
@@ -24,9 +26,5 @@ slide_id: 4
 <li> <a href="/assets/timetable.pdf">Schedule </a> </li>
 <li> <a href="/assets/wamta24_abstracts.pdf"> Book of Abstracts </a> </li>
 </ul>
-
-<!--<li> <a href="/shortcourse"> Short course: Modern STL </a> </li>-->
-<!--<li> <a href="https://www.youtube.com/playlist?list=PL7vEgTL3FalZ7xBUvYrlgacIhc3CqbYAM">Recorded talks</a> </li>-->
-<!--<li> <a href="https://zenodo.org/communities/wamta23/?page=1&size=20">Collection of slides and posters</a> </li>-->
 
 {% include contact-us.html %}
