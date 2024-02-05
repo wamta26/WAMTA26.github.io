@@ -11,7 +11,7 @@ The WAMTA workshop is scheduled for Feb 14-16, 2024, and will be held in Knoxvil
 
 <div class="text-info" >Conference Location:</div>
 
-The University of Tennessee Student Union is located at **1502 Cumberland Ave, Knoxville, TN 37916**
+The University of Tennessee Student Union is located at **1502 Cumberland Ave, Knoxville, TN 37916**. The workshop is held in **Room 169**.
 
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.5944254841656!2d-83.93160522381487!3d35.95689021478153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885c17e0c192368d%3A0xad6050ea6822d245!2sUniversity%20of%20Tennessee%20Student%20Union!5e0!3m2!1sen!2sus!4v1698855518639!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
