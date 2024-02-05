@@ -19,6 +19,8 @@ The University of Tennessee Student Union is located at **1502 Cumberland Ave, K
 
 <div class="text-info" >Parking Information:</div>
 
+Please use the Volunteer Hall Parking Garage on <b>White Ave, Knoxville, TN 37916</b>. We will provide parking vouchers to workshop participants.
+
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3229.548909747202!2d-83.93211507380214!3d35.95800337249918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x885c3d5fe5aded95%3A0x326f54476df6e87f!2sVolunteer%20Hall%20Parking%20Garage%20G15%20White%20Ave%20Knoxville%2C%20TN%2037916!3m2!1d35.9588957!2d-83.92984349999999!4m5!1s0x885c17e0c192368d%3A0xad6050ea6822d245!2sUniversity%20of%20Tennessee%20Student%20Union%2C%20Cumberland%20Avenue%2C%20Knoxville%2C%20TN!3m2!1d35.956885899999996!2d-83.9290303!5e0!3m2!1sen!2sus!4v1707165152801!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
