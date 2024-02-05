@@ -93,6 +93,9 @@ program_chair:
   - name: Joseph Schuchart
     org: University of Tennessee at Knoxville (USA)
     homepage:
+  - name: Thomas Herault
+    org: University of Tennessee at Knoxville (USA)
+    homepage: https://www.eecs.utk.edu/people/thomas-herault/
 steering_committee:
   - name: Alex Aiken
     org: Stanford (USA)
