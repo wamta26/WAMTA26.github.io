@@ -53,7 +53,8 @@ The topics of interest include, but are by no means limited to:
   
 Previous events:
   
-* [WAMTA 2024](https://wamta24.icl.utk.edu/) @ [CCT](https://www.cct.lsu.edu/)/[LSU](https://lsu.edu/)
+ * [WAMTA 2024](https://wamta24.icl.utk.edu/) @ [ICL](https://icl.utk.edu/)/[UTK](https://www.utk.edu/) - [Artifacts](https://zenodo.org/communities/wamta24)
+ * [WAMTA 2023](https://wamta23.stellar-group.org/) @ [CCT](https://www.cct.lsu.edu/)/[LSU](https://lsu.edu/) - [Artifacts](https://zenodo.org/communities/wamta23)
 
 {% include contact-us.html %}
 
