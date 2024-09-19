@@ -50,10 +50,10 @@ navbar:
 deadlines:
   - date: 03/10/2025
     text: Deadline for abstract and poster submission
-    pass_due: true
+    pass_due: False
   - date: 17/10/2025
     text: Author notification for poster and talks
-    pass_due: true
+    pass_due: False
   - date: 16/01/2026
     text: Deadline for proceedings paper submission
     pass_due: False
