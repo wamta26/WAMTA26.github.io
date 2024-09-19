@@ -10,10 +10,10 @@ slide_id: 0
 
 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 text-justify conference-text" markdown="1">
 
-##### WELCOME TO WAMTA 2024\!
+##### WELCOME TO WAMTA 2026\!
 
-The WAMTA 2024 workshop is scheduled as a <b>in-person</b> event in February 2024 and will be
-held at Knoxville, TN, USA. 
+The WAMTA 2026 workshop is scheduled as a <b>in-person</b> event in February 2026 and will be
+held at Garching near Munich, Bavaria, Germany. 
 {: .lead}
 
 As our compute capacity grows, science simulations are not only becoming
@@ -53,7 +53,7 @@ The topics of interest include, but are by no means limited to:
   
 Previous events:
   
-* [WAMTA 2023](https://wamta23.stellar-group.org/) @ [CCT](https://www.cct.lsu.edu/)/[LSU](https://lsu.edu/)
+* [WAMTA 2024](https://wamta24.icl.utk.edu/) @ [CCT](https://www.cct.lsu.edu/)/[LSU](https://lsu.edu/)
 
 {% include contact-us.html %}
 

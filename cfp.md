@@ -23,7 +23,9 @@ Authors need to submit their work through [EasyChair](https://easychair.org/conf
 
 **Abstracts**:
 
-Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (December 14th) and later submit the short or full paper (January 15th).  
+Authors are invited to submit abstracts and indicate if they will
+submit a short or full paper. This is a two step process and authors
+will first submit the abstract (October 3rd, 2025) and later submit the short or full paper (January 16th, 2026).  
 
 **Full Papers**:
 Authors are invited to submit original papers of between ten and twelve pages, including text, the references section, appendices, and figures.
@@ -39,11 +41,13 @@ The Best Paper/Poster Award will be selected on the basis of explicit recommenda
 
 **Important Dates**:
 
-**Submission Deadline:** February 7, 2024
+**Abstract Submission Deadline:** October 3, 2025
 
-**Notification of Acceptance:** February 21, 2024
+**Paper Submission Deadline:** January 16, 2025
 
-**Camera-ready paper:** February 29, 2024
+**Notification of Acceptance:** January 30, 2026
+
+**Camera-ready paper:** February 13, 2026
 
 </div>
 

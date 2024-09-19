@@ -1,10 +1,10 @@
-full_title: Workshop on Asynchronous Many-Task Systems and Applications 2024
-short_title: WAMTA 24
+full_title: Workshop on Asynchronous Many-Task Systems and Applications 2026
+short_title: WAMTA 26
 email: patrickdiehl@lsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   The workshop on Asynchronous Many-Task Systems and Applications brings together AMT developers and application developers.
-location: Knoxville, TN, USA
-date: February 14th to 16th, 2024
+location: Garching near Munich, Germany
+date: February 16th to 19th, 2026
 # logo_path: ./assets/images/logo2017.jpg
 logo_path: ./assets/images/logo.png
 slideshow:
@@ -48,28 +48,26 @@ navbar:
     path: /keynote
     visible: True
 deadlines:
-  - date: 14/12/2023
+  - date: 03/10/2025
     text: Deadline for abstract and poster submission
     pass_due: true
-  - date: 21/12/2023
+  - date: 17/10/2025
     text: Author notification for poster and talks
     pass_due: true
-  - date: 07/02/2024
+  - date: 16/01/2026
     text: Deadline for proceedings paper submission
     pass_due: False
-  - date: 21/02/2024
+  - date: 30/01/2026
     text: Author notification for proceedings papers
     pass_due: False
-  - date: 29/02/2024
+  - date: 13/02/2024
     text: Deadline for camera-ready paper submission
     pass_due: False
 news:
   - date: 
-    text: Sean Treichler (NVIDIA) confirmed as keynote speaker.  
+    text: Rosa M. Badia (BSC-CNS) confirmed as keynote speaker.  
   - date: 
-    text: Jeffrey Vetter (ORNL) confirmed as keynote speaker. 
-  - date: 
-    text: Robert Harrison (Stony Brook University) confirmed as keynote speaker. 
+    text: Michael Klemm (AMD / OpenMP) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
@@ -83,19 +81,16 @@ social_media:
 program_chair:
   - name: Patrick Diehl
     org: Louisiana State University (USA)
-    homepage: https://www.diehlpk.de/
-  - name: George Bosilca
-    org: University of Tennessee at Knoxville (USA)
-    homepage: https://www.eecs.utk.edu/people/george-bosilca/
-  - name: Pedro Valero-Lara
-    org: Oak Ridge National Laboratory (USA)
-    homepage: https://www.ornl.gov/staff-profile/pedro-valero-lara
-  - name: Joseph Schuchart
-    org: University of Tennessee at Knoxville (USA)
-    homepage:
-  - name: Thomas Herault
-    org: University of Tennessee at Knoxville (USA)
-    homepage: https://www.eecs.utk.edu/people/thomas-herault/
+    homepage: Los Alamos National Laboratory (USA)
+  - name: Martin Schulz
+    org: Technical University of Munich (Germany)
+    homepage: https://www.ce.cit.tum.de/caps/mitarbeiter/martin-schulz/
+  - name: Erwin Laure
+    org: Max Planck Computing and Data Facility (Germany) 
+    homepage: https://www.mpcdf.mpg.de
+  - name: Markus Rampp
+    org: Max Planck Computing and Data Facility (Germany) 
+    homepage: https://www.mpcdf.mpg.de
 steering_committee:
   - name: Alex Aiken
     org: Stanford (USA)
