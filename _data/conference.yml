@@ -26,7 +26,7 @@ navbar:
   - id: 2
     label: CfP
     path: /cfp
-    visible: True
+    visible: False
   - id: 3
     label: Submission
     path: /submission
@@ -34,19 +34,19 @@ navbar:
   - id: 4
     label: Program
     path: /program
-    visible: True
+    visible: False
   - id: 5
     label: Travel
     path: /venue
-    visible: True
+    visible: False
   - id: 6
     label: Registration
     path: /registration
-    visible: True
+    visible: False
   - id: 7
     label: Keynote speakers
     path: /keynote
-    visible: True
+    visible: False
 deadlines:
   - date: 03/10/2025
     text: Deadline for abstract and poster submission
