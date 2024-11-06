@@ -68,6 +68,8 @@ news:
     text: Rosa M. Badia (BSC-CNS) confirmed as keynote speaker.  
   - date: 
     text: Michael Klemm (AMD / OpenMP) confirmed as keynote speaker. 
+  - date: 
+    text: Nick Brown (EPCC) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
