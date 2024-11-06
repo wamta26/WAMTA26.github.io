@@ -60,7 +60,7 @@ deadlines:
   - date: 30/01/2026
     text: Author notification for proceedings papers
     pass_due: False
-  - date: 13/02/2024
+  - date: 13/02/2026
     text: Deadline for camera-ready paper submission
     pass_due: False
 news:
