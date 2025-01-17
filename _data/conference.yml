@@ -175,12 +175,15 @@ technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
     homepage: https://www.diehlpk.de/
-  - name: Pedro Valero Lara 
-    org:  Oak Ridge National Laboratory (USA)
-    homepage: https://www.ornl.gov/staff-profile/pedro-valero-lara 
-  - name: George Bosilca
-    org:  University of Tennessee, Knoxville (USA)
-    homepage: https://icl.utk.edu/~bosilca/
+  - name: Martin Schulz
+    org: Technical University of Munich (Germany)
+    homepage: https://www.ce.cit.tum.de/caps/mitarbeiter/martin-schulz/
+  - name: Erwin Laure
+    org: Max Planck Computing and Data Facility (Germany) 
+    homepage: https://www.mpcdf.mpg.de
+  - name: Markus Rampp
+    org: Max Planck Computing and Data Facility (Germany) 
+    homepage: https://www.mpcdf.mpg.de
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
