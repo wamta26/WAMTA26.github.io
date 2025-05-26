@@ -7,14 +7,14 @@ slide_id: 0
 <div class="row mt-xs-0 mt-sm-0 mt-md-1 mt-lg-2 mt-xl-3 mb-xs-2 mb-sm-2">
 <div class="col text-muted" markdown="1">
 
-The WAMTA workshop is scheduled for Feb 16-19, 2026, and will be held at the research campus of Garching near Munich, Germany at the Technical University of Munich.
+The WAMTA workshop is scheduled for Feb 16-19, 2026, and will be held at the research campus of Garching near Munich, Germany at the Max Planck Computing and Data Facility and the Max Planck Institute of Plasmaphysics.
 
 <div class="text-info" >Conference Location:</div>
 
-Leibniz Supercomputing Centre on Research Campus Garching, **Boltzmannstr. 1, 85748 Garching near Munich, Germany**. Lecture hall – to be announced
+Max Planck Computing & Data Facility on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Germany. **Access via Isarstrasse**. Lecture hall on ground level next to the main entrance to building D2.
 
 <center>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10624.701997336579!2d11.6657809!3d48.2609971!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e72ec2d4698a7%3A0x2a8c23a3c45ee360!2sLeibniz-Rechenzentrum%20der%20Bayerischen%20Akademie%20der%20Wissenschaften!5e0!3m2!1sen!2sde!4v1736930036179!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2656.0467391520706!2d11.670239579345685!3d48.263475070338934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1748253917441!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
 
@@ -29,7 +29,7 @@ Conference lodging has been reserved as follows:
 The hotel is within a walking distance of the conference venue:
 
 <center>
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2656.0623929084095!2d11.66795712643028!3d48.263173821257645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x479e72ecc714f465%3A0x485458f494eb2e9e!2sCourtyard%20Munich%20Garching%2C%20Walther-Von-Dyck%20Stra%C3%9Fe%2C%20Garching%20bei%20M%C3%BCnchen!3m2!1d48.264917!2d11.6725093!4m5!1s0x479e72ec2d4698a7%3A0x2a8c23a3c45ee360!2sLeibniz-Rechenzentrum%20der%20Bayerischen%20Akademie%20der%20Wissenschaften%2C%20Boltzmannstra%C3%9Fe%201%2C%2085748%20Garching%20bei%20M%C3%BCnchen!3m2!1d48.261427399999995!2d11.668554799999999!5e0!3m2!1sen!2sde!4v1736933128716!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d2656.0113610421668!2d11.6702446!3d48.2641559!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x479e72ecc714f465%3A0x485458f494eb2e9e!2sCourtyard%20Munich%20Garching%2C%20Walther-Von-Dyck%20Str.%2012%2C%2085748%20Garching%20bei%20M%C3%BCnchen!3m2!1d48.264917!2d11.6725093!4m3!3m2!1d48.2633036!2d11.6738007!5e0!3m2!1sde!2sde!4v1748256889287!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
 A contingent of hotel rooms with a special discount rate is available for the conference. Rooms can be [booked online](https://www.marriott.com/de/event-reservations/reservation-link.mi?id=1729679418731&key=GRP&guestreslink2=true) (label "Max Planck Computing and Data")
