@@ -46,7 +46,7 @@ navbar:
   - id: 7
     label: Keynote speakers
     path: /keynote
-    visible: False
+    visible: True
 deadlines:
   - date: 03/10/2025
     text: Deadline for abstract and poster submission
