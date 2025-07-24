@@ -9,14 +9,19 @@ slide_id: 5
 
 <div markdown="1">
 
-##### REGISTRATION
+##### REGISTRATION & ACCOMODATION
 
-Please register for the workshop <a href="https://utconferences.eventsair.com/wamta-2024/wamta2024-register">here</a>. Registration for in-person attendance is strongly encouraged but virtual attendance is available. For all questions and concerns about the registration contact <a href="mailto:schuchart@icl.utk.edu">Joseph Schuchart</a>.
+Please register for the workshop <a href="https://plan.events.mpg.de/event/365/">here</a>.
+
+A contingent of hotel rooms with a special discount rate is available for the conference. Rooms can be [booked online](https://www.marriott.com/de/event-reservations/reservation-link.mi?id=1729679418731&key=GRP&guestreslink2=true) (label "Max Planck Computing and Data")
+
+
+For all questions and concerns about the registration contact <a href="mailto:office@mpcdf.mpg.de">MPCDF office</a>.
 
 ##### VISA INFO:
 
-If you are an international traveler and needs a visa to enter the U.S.,
-please contact <a href="mailto:schuchart@icl.utk.edu">Joseph Schuchart</a>.
+If you are an international traveler and needs a visa to enter Germany,
+please contact <a href="mailto:office@mpcdf.mpg.de">MPCDF office</a>.
 
 </div>
 
