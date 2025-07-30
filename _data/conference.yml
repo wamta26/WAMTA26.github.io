@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   The workshop on Asynchronous Many-Task Systems and Applications brings together AMT developers and application developers.
 location: Garching near Munich, Germany
 date: February 16th to 18th, 2026
-# logo_path: ./assets/images/logo2017.jpg
 logo_path: ./assets/images/logo.png
 slideshow:
   - id: 0
@@ -64,6 +63,10 @@ deadlines:
     text: Deadline for camera-ready paper submission
     pass_due: False
 news:
+  - date: 2025-07-30
+    text: Registration opened 
+  - date: 2025-07-29
+    text: Call for papers opened
   - date: 
     text: Rosa M. Badia (BSC-CNS) confirmed as keynote speaker.  
   - date: 
