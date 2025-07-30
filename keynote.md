@@ -13,7 +13,7 @@ slide_id: 1
 </div>
 
 <div class="card">
-	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote I</div>
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
 	<div style="margin: 10px">
 		<h5>Fortran and the OpenMP API in a Modern GPU World</h5>
 		<p>Michael Klemm, AMD</p>
@@ -43,7 +43,7 @@ slide_id: 1
 </div>
 
 <div class="card">
-	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote I</div>
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
 	<div style="margin: 10px">
 		<h5>Title tba</h5>
 		<p>Nick Brown, EPCC</p>
