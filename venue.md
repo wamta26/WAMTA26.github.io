@@ -7,7 +7,7 @@ slide_id: 0
 <div class="row mt-xs-0 mt-sm-0 mt-md-1 mt-lg-2 mt-xl-3 mb-xs-2 mb-sm-2">
 <div class="col text-muted" markdown="1">
 
-The WAMTA workshop is scheduled for Feb 16-19, 2026, and will be held at the research campus of Garching near Munich, Germany at the Max Planck Computing and Data Facility and the Max Planck Institute of Plasmaphysics.
+The WAMTA workshop is scheduled for Feb 16-18, 2026, and will be held at the research campus of Garching near Munich, Germany at the Max Planck Computing and Data Facility and the Max Planck Institute of Plasmaphysics.
 
 <div class="text-info" >Conference Location:</div>
 
