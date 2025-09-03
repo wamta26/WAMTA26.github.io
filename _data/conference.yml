@@ -134,8 +134,8 @@ technical_program_committee:
   - name: Dirk Pleiter
     org: KTH Royal Institute of Technology (Sweden)
     homepage:
-  - name: Didem Unat
-    org: Koç University (Turkey)
+  - name: Maxim Moraru
+    org: Los Alamos National Laboratory (USA) 
     homepage: 
   - name: Keita Teranishi
     org: Sandia National Laboratories (USA)
@@ -145,9 +145,6 @@ technical_program_committee:
     homepage: 
   - name: Najoude Nader
     org: Louisiana State University (USA)
-    homepage: 
-  - name: Weile Wei
-    org: Lawrence Berkeley National Laboratory (USA)
     homepage: 
   - name: Jeff Hammond
     org: NVIDIA (Finland) 
