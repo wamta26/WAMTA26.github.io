@@ -44,7 +44,7 @@ be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/c
 
 Authors are invited to submit abstracts and indicate if they will
 submit a short or full paper. This is a two step process and authors
-will first submit the abstract (October 3rd, 2025) and later submit
+will first submit the abstract (October 10th, 2025) and later submit
 the short or full paper (January 16th, 2026).
 
 
@@ -74,7 +74,7 @@ originality and quality.
 
 **Important Dates**:
 
-**Abstract Submission Deadline:** October 3, 2025
+**Abstract Submission Deadline (extended):** October 10, 2025
 
 **Paper Submission Deadline:** January 16, 2026
 

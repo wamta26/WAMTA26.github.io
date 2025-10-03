@@ -47,8 +47,8 @@ navbar:
     path: /keynote
     visible: True
 deadlines:
-  - date: 03/10/2025
-    text: Deadline for abstract and poster submission
+  - date: 10/10/2025
+    text: Extended deadline for abstract and poster submission
     pass_due: False
   - date: 17/10/2025
     text: Author notification for poster and talks
