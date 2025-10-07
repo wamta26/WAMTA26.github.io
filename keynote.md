@@ -6,9 +6,21 @@ slide_id: 1
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote I</div>
 	<div style="margin: 10px">
-		<h5>Title tba</h5>
+		<h5>Task-based programming models: tradeoffs between granularity and computing platforms</h5>
 		<p>Rosa M. Badia, BSC-CNS</p>
-        Abstract tba
+Task-based programming defends that provides a simple programming
+approach that leverages the computing infrastructure and reduces
+global synchronizations. Since its inception has been extensively
+applied to different computing platforms.  In particular, at BSC we
+have developed instances of programming models for so diverse
+infrastructures as the grid, multicore or the Cell processor, clusters
+and large supercomputers, to the digital continuum or hybrid classic-quantum
+approaches.  However, is the programming model so simple? What
+the end-users say about it?  What are the issues that each computing
+platform pose?  Is an autonomous runtime taking all decisions
+appreciated by end-users? How can we debug or improve the performance
+of distributed applications? The talk will present a perspective
+overview of these topics and our views for the next future.
 	</div>
 </div>
 
@@ -38,7 +50,6 @@ slide_id: 1
 	exascale system, based on AMD EPYC(tm) Processors and AMD
 	Instinct(tm) accelerators as well as a modern Fortran compiler
 	based on LLVM Flang.  Buckle up and enjoy the ride!
-    
 	</div>
 </div>
 
