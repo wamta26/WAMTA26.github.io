@@ -56,8 +56,14 @@ overview of these topics and our views for the next future.
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
 	<div style="margin: 10px">
-		<h5>Title tba</h5>
+		<h5>Asychronous tasks: the cornerstone of targeting HPC on emerging architectures</h5>
 		<p>Nick Brown, EPCC</p>
-        Abstract tba
+Whilst emerging architectures, such as the Cerebras WSE, were initially designed with AI/ML workloads in mind
+their underlying capability results in great potential for traditional HPC too. However, a major challenge is in the
+programming of these technologies not-least because approaching these architectures as traditional
+imperative/BSP-style is a poor fit and results in slow performance. In this talk I will describe work targeting these
+architectures for existing HPC workloads, written in Fortran, with programmer's codes requiring minimal modifications.
+I will describe how we see that the target execution model naturally follows that of highly asynchronous many-tasks,
+and how we can automate via MLIR the mapping to this paradigm from the imperative view.
 	</div>
 </div>
