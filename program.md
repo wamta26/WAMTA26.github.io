@@ -3,28 +3,17 @@ layout: page
 slide_id: 4
 ---
 
-The venue for all talks is the University of Tennessee, Knoxville Student Union Building, <b>Room 169</b>, 1502 Cumberland Avenue, Knoxville, TN 37996.
+The venue for all talks is at the [Max Planck Computing and Data Facility,
+on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Germany. ** Access via Isarstrasse **](https://www.mpcdf.mpg.de/contact/directions). Lecture hall on ground level next to the main entrance to building D2.
 
-<div class="row">
+<div class="text-info" >Social Events:</div>
 
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-1">
+* [Poster Reception on Monday evening in the showroom of the Max Planck Institute of Plasmaphysics](events.md) 
+* [Conference Dinner on Tuesday evening in the oldest brewery of the planet, Weihenstephan](events.md) 
 
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
-<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "28b4895f210d44edb3d5eefe7945ca8a", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "/assets/timetable.pdf"}},
-			metaData:{fileName: "timetable.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
-</script>
+<div class="text-info" >Scientific Program and timetable:</div>
 
-<ul>
-<li> <a href="/assets/timetable.pdf">Schedule </a> </li>
-<li> <a href="/assets/wamta24_abstracts.pdf"> Book of Abstracts </a> </li>
-</ul>
+_to be published soon_ 
 
 {% include contact-us.html %}

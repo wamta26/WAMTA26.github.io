@@ -33,7 +33,7 @@ navbar:
   - id: 4
     label: Program
     path: /program
-    visible: False
+    visible: True
   - id: 5
     label: Travel
     path: /venue
