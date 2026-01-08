@@ -63,6 +63,8 @@ deadlines:
     text: Deadline for camera-ready paper submission
     pass_due: False
 news:
+  - date: 2026-01-08
+    text: Book of Abstracts online
   - date: 2025-07-30
     text: Registration opened 
   - date: 2025-07-29

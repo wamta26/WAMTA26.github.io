@@ -14,6 +14,10 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
 
 <div class="text-info" >Scientific Program and timetable:</div>
 
-_to be published soon_ 
+<ul>
+<!-- <li> <a href="/assets/timetable.pdf">Schedule </a> </li> -->
+<li> <a href="/assets/book-of-abstracts.pdf"> Book of Abstracts </a> </li>
+</ul>
+
 
 {% include contact-us.html %}
