@@ -13,17 +13,126 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
 
 <div class="text-info" >Scientific Program and Timetable:</div>
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
-<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "28b4895f210d44edb3d5eefe7945ca8a", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "/assets/timetable.pdf"}},
-			metaData:{fileName: "timetable.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
-</script>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    vertical-align: top;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  .time-col {
+    white-space: nowrap;
+    font-weight: bold;
+  }
+</style>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Mon Feb 16 (Day 1)</th>
+      <th>Tue Feb 17 (Day 2)</th>
+      <th>Wed Feb 18 (Day 3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="time-col">08:00 AM</td>
+      <td><em>Registration / Coffee and Pastries</em> </td>
+      <td><em>Registration / Coffee and Pastries</em> </td>
+      <td><em>Registration / Coffee and Pastries</em> </td>
+    </tr>
+    <tr>
+      <td class="time-col">08:50 AM</td>
+      <td>Welcoming Remarks </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="time-col">09:00 AM</td>
+      <td><b>Keynote 1:</b> M. Klemm: Fortran and the OpenMP API in a Modern GPU World </td>
+      <td><b>Keynote 2:</b> R. Badia: Task-based programming models: trade-offs between granularity and computing platforms </td>
+      <td><b>Keynote 3:</b> N. Brown: Asynchronous tasks: the cornerstone of targeting HPC on emerging architectures </td>
+    </tr>
+    <tr>
+      <td class="time-col">10:00 AM</td>
+      <td><em>Coffee</em> </td>
+      <td><em>Coffee</em> </td>
+      <td><em>Coffee</em> </td>
+    </tr>
+    <tr>
+      <td class="time-col">10:30 AM</td>
+      <td>Thoman </td>
+      <td>Huber </td>
+      <td>Munhoz Pereira Filho </td>
+    </tr>
+    <tr>
+      <td class="time-col">11:00 AM</td>
+      <td>Strack </td>
+      <td>Nather </td>
+      <td>Chaturvedi </td>
+    </tr>
+    <tr>
+      <td class="time-col">11:30 AM</td>
+      <td>Zhang </td>
+      <td>Schuchart </td>
+      <td>Ducarton </td>
+    </tr>
+    <tr>
+      <td class="time-col">12:00 PM</td>
+      <td><em>Lunch</em> </td>
+      <td><em>Lunch</em> </td>
+      <td><em>Lunch</em> </td>
+    </tr>
+    <tr>
+      <td class="time-col">01:00 PM</td>
+      <td>Gracia </td>
+      <td>Batel </td>
+      <td>Gu </td>
+    </tr>
+    <tr>
+      <td class="time-col">01:30 PM</td>
+      <td>Posner </td>
+      <td>Eyraud-Dubois </td>
+      <td>Panel: Quantum Computing </td>
+    </tr>
+    <tr>
+      <td class="time-col">02:00 PM</td>
+      <td>Brieuc </td>
+      <td>Reitz </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="time-col">02:30 PM</td>
+      <td><em>Coffee</em> </td>
+      <td><em>Coffee</em> </td>
+      <td><em>Coffee</em></td>
+    </tr>
+    <tr>
+      <td class="time-col">03:00 PM</td>
+      <td>Quantum Computer Tour (until 4:30 PM) </td>
+      <td>Panel: Novel architectures for AMT (until 3:45 PM) </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="time-col">Evening</td>
+      <td>Reception (05:30 PM - 09:30 PM) </td>
+      <td>
+        05:00 PM: Bus to Brewery<br>
+        06:30 PM - 09:30 PM: Tour / Banquet<br>
+        09:30 PM: Bus to conference venue 
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <ul>
 <li> <a href="/assets/timetable.pdf">Schedule (pdf)</a> </li>
