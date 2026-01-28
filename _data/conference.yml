@@ -118,9 +118,6 @@ steering_committee:
     org: HPE and University of Washington (USA)
     homepage: https://homes.cs.washington.edu/~bradc/
 technical_program_committee:
-  - name: Brad Richardson
-    org: Sourcery Institute (USA)
-    homepage: 
   - name: Kevin Huck
     org: AMD (USA)
     homepage:
