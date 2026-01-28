@@ -122,10 +122,10 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
     </tr>
     <tr>
       <td class="time-col">Evening</td>
-      <td>Reception (05:30 PM - 09:30 PM) </td>
+      <td>Reception (05:30 PM - 08:00 PM) </td>
       <td>
-        05:00 PM: Bus to Brewery<br>
-        06:30 PM - 09:30 PM: Tour / Banquet<br>
+        05:30 PM: Bus to Brewery<br>
+        06:00 PM - 09:30 PM: Tour / Banquet<br>
         09:30 PM: Bus to conference venue 
       </td>
       <td></td>
