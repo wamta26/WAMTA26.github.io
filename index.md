@@ -50,7 +50,9 @@ The topics of interest include, but are by no means limited to:
   - Tools for debugging programs using task-based runtimes
   - Challenges to task-based runtimes in scaling to large clusters
   - Hardware challenges and solutions in using task-based environments
-  
+
+Collection of [artifacts](https://zenodo.org/communities/wamta26/).
+
 Previous events:
 
  * [WAMTA 2025](https://wamta25.github.io/) @ [SLU](https://www.slu.edu/) - [Artifacts](https://zenodo.org/communities/wamta25)
