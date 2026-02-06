@@ -49,17 +49,17 @@ navbar:
 deadlines:
   - date: 10/10/2025
     text: Extended deadline for abstract and poster submission
-    pass_due: False
+    pass_due: True
   - date: 17/10/2025
     text: Author notification for poster and talks
-    pass_due: False
+    pass_due: True
   - date: 16/01/2026
     text: Deadline for proceedings paper submission
-    pass_due: False
-  - date: 30/01/2026
+    pass_due: True
+  - date: 09/02/2026
     text: Author notification for proceedings papers
     pass_due: False
-  - date: 13/02/2026
+  - date: 20/02/2026
     text: Deadline for camera-ready paper submission
     pass_due: False
 news:
