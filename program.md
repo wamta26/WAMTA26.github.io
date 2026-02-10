@@ -44,95 +44,94 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
   <tbody>
     <tr>
       <td class="time-col">08:00 AM</td>
-      <td><em>Registration / Coffee and Pastries</em> </td>
-      <td><em>Registration / Coffee and Pastries</em> </td>
-      <td><em>Registration / Coffee and Pastries</em> </td>
+      <td><em>Registration / Coffee and Pastries</em></td>
+      <td><em>Registration / Coffee and Pastries</em></td>
+      <td><em>Registration / Coffee and Pastries</em></td>
     </tr>
     <tr>
       <td class="time-col">08:50 AM</td>
-      <td>Welcoming Remarks </td>
+      <td>Welcoming Remarks (Erwin Laure)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td class="time-col">09:00 AM</td>
-      <td><b>Keynote 1:</b> M. Klemm: Fortran and the OpenMP API in a Modern GPU World </td>
-      <td><b>Keynote 2:</b> R. Badia: Task-based programming models: trade-offs between granularity and computing platforms </td>
-      <td><b>Keynote 3:</b> N. Brown: Asynchronous tasks: the cornerstone of targeting HPC on emerging architectures </td>
+      <td><b>Keynote 1:</b> Michael Klemm: Fortran and the OpenMP API in a Modern GPU World</td>
+      <td><b>Keynote 2:</b> Rosa Badia: Task-based programming models: tradeoffs between granularity and computing platforms</td>
+      <td><b>Keynote 3:</b> Nick Brown: Asynchronous tasks: the cornerstone of targeting HPC on emerging architectures</td>
     </tr>
     <tr>
       <td class="time-col">10:00 AM</td>
-      <td><em>Coffee</em> </td>
-      <td><em>Coffee</em> </td>
-      <td><em>Coffee</em> </td>
+      <td><em>Coffee</em></td>
+      <td><em>Coffee</em></td>
+      <td><em>Coffee</em></td>
     </tr>
     <tr>
       <td class="time-col">10:30 AM</td>
-      <td>Thoman </td>
-      <td>Huber </td>
-      <td>Munhoz Pereira Filho </td>
+      <td><b>Peter Thoman:</b> Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems</td>
+      <td><b>Dominik Huber:</b> Towards Dynamic Resource Management with Charm++</td>
+      <td><b>Vanderlei Munhoz Pereira Filho:</b> Performance Analysis of Task-Based Parallelism for 3D Acoustic Full Waveform Inversion on HPC Infrastructure</td>
     </tr>
     <tr>
       <td class="time-col">11:00 AM</td>
-      <td>Strack </td>
-      <td>Nather </td>
-      <td>Chaturvedi </td>
+      <td><b>Alexander Strack:</b> Accelerating GPRat: Asynchronous, Task-Based GPU Acceleration for Gaussian Process Regression with HPX</td>
+      <td><b>Rüdiger Nather:</b> Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies</td>
+      <td><b>Nilesh Chaturvedi:</b> Multiresolution Analysis using Data-Flow Programming</td>
     </tr>
     <tr>
       <td class="time-col">11:30 AM</td>
-      <td>Zhang </td>
-      <td>Schuchart </td>
-      <td>Ducarton </td>
+      <td><b>Qiao Zhang:</b> Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia</td>
+      <td><b>Joseph Schuchart:</b> Using C++ Generators in Dataflow Broadcast</td>
+      <td><b>Nicolas Ducarton:</b> Abstract communicators for task based runtime systems</td>
     </tr>
     <tr>
       <td class="time-col">12:00 PM</td>
-      <td><em>Lunch</em> </td>
-      <td><em>Lunch</em> </td>
-      <td><em>Lunch</em> </td>
+      <td><em>Lunch</em></td>
+      <td><em>Lunch</em></td>
+      <td><em>Lunch</em></td>
     </tr>
     <tr>
       <td class="time-col">01:00 PM</td>
-      <td>Gracia </td>
-      <td>Batel </td>
-      <td>Gu </td>
+      <td><b>Jose Gracia:</b> Evaluating MPI and OpenMP for global task dependencies across processes</td>
+      <td><b>Linus Batel:</b> From Prompts to Performance: Evaluating LLMs for Task-based Parallel Code Generation</td>
+      <td><b>Zhuowei Gu:</b> Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition</td>
     </tr>
     <tr>
       <td class="time-col">01:30 PM</td>
-      <td>Posner </td>
-      <td>Eyraud-Dubois </td>
-      <td>Panel: Quantum Computing </td>
+      <td><b>Jonas Posner:</b> Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, and MPI</td>
+      <td><b>Lionel Eyraud-Dubois:</b> First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications</td>
+      <td>Panel: Quantum Computing</td>
     </tr>
     <tr>
       <td class="time-col">02:00 PM</td>
-      <td>Brieuc </td>
-      <td>Reitz </td>
+      <td><b>Nicolas Brieuc:</b> Managing Explicit Communications Within a Sequential Task Flow Paradigm</td>
+      <td><b>Mia Reitz:</b> Silent Data Corruption Protection through Efficient Task Replication</td>
       <td></td>
     </tr>
     <tr>
       <td class="time-col">02:30 PM</td>
-      <td><em>Coffee</em> </td>
-      <td><em>Coffee</em> </td>
+      <td><em>Coffee</em></td>
+      <td><em>Coffee</em></td>
       <td><em>Coffee</em></td>
     </tr>
     <tr>
       <td class="time-col">03:00 PM</td>
-      <td>Quantum Computer Tour (until 4:30 PM) </td>
-      <td>Panel: Novel architectures for AMT (until 3:45 PM) </td>
+      <td>Quantum Computer Tour (until 4:30 PM)</td>
+      <td>Panel: Novel architectures for AMT (until 3:45 PM)</td>
       <td></td>
     </tr>
     <tr>
       <td class="time-col">Evening</td>
-      <td>Reception (05:30 PM - 08:00 PM) </td>
+      <td>Reception (05:30 PM - 08:00 PM)</td>
       <td>
         05:30 PM: Bus to Brewery<br>
         06:00 PM - 09:30 PM: Tour / Banquet<br>
-        09:30 PM: Bus to conference venue 
+        09:30 PM: Bus to conference venue
       </td>
       <td></td>
     </tr>
   </tbody>
 </table>
-
 
 <ul>
 <li> <a href="/assets/timetable.pdf">Schedule (pdf)</a> </li>
