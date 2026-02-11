@@ -56,15 +56,21 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
     </tr>
     <tr>
       <td class="time-col">09:00 AM</td>
-      <td><b>Keynote 1:</b> Michael Klemm: Fortran and the OpenMP API in a Modern GPU World</td>
-      <td><b>Keynote 2:</b> Rosa Badia: Task-based programming models: tradeoffs between granularity and computing platforms</td>
-      <td><b>Keynote 3:</b> Nick Brown: Asynchronous tasks: the cornerstone of targeting HPC on emerging architectures</td>
+      <td><em>Keynote 1, Chair: E. Laure</em> <br><b>Michael Klemm:</b> Fortran and the OpenMP API in a Modern GPU World</td>
+      <td><em>Keynote 2, Chair: M. Schulz</em><br> <b>Rosa Badia</b>: Task-based programming models: tradeoffs between granularity and computing platforms</td>
+      <td><em>Keynote 3, Chair: C. Junghans</em><br> <b>Nick Brown</b>: Asynchronous tasks: the cornerstone of targeting HPC on emerging architectures</td>
     </tr>
     <tr>
       <td class="time-col">10:00 AM</td>
       <td><em>Coffee</em></td>
       <td><em>Coffee</em></td>
       <td><em>Coffee</em></td>
+    </tr>
+    <tr>
+      <td class="time-col"></td>
+      <td><em>Session 1, Chair: M. Rampp</em></td>
+      <td><em>Session 3, Chair: J. Posner</em></td>
+      <td><em>Session 5, Chair: M. Rampp</em></td>
     </tr>
     <tr>
       <td class="time-col">10:30 AM</td>
@@ -89,6 +95,12 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
       <td><em>Lunch</em></td>
       <td><em>Lunch</em></td>
       <td><em>Lunch</em></td>
+    </tr>
+    <tr>
+      <td class="time-col"></td>
+      <td><em>Session 2: C. Junghans</em></td>
+      <td><em>Session 4: M. Rampp</em></td>
+      <td><em>Session 6</em></td>
     </tr>
     <tr>
       <td class="time-col">01:00 PM</td>
@@ -117,7 +129,7 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
     <tr>
       <td class="time-col">03:00 PM</td>
       <td>Quantum Computer Tour (until 4:30 PM)</td>
-      <td>Panel: Novel architectures for AMT (until 3:45 PM)</td>
+      <td>Panel: Novel architectures for AMT, <em>Chair: C. Junghans</em> (until 3:45 PM)</em></td>
       <td></td>
     </tr>
     <tr>
