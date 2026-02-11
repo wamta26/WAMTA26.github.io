@@ -94,25 +94,25 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
       <td class="time-col">12:00 PM</td>
       <td><em>Lunch</em></td>
       <td><em>Lunch</em></td>
-      <td><em>Lunch</em></td>
+      <td><b>Zhuowei Gu:</b> Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition</td>
     </tr>
     <tr>
       <td class="time-col"></td>
       <td><em>Session 2: C. Junghans</em></td>
       <td><em>Session 4: M. Rampp</em></td>
-      <td><em>Session 6</em></td>
+      <td><em>Lunch (12:30) </em></td>
     </tr>
     <tr>
       <td class="time-col">01:00 PM</td>
       <td><b>Jose Gracia:</b> Evaluating MPI and OpenMP for global task dependencies across processes</td>
       <td><b>Linus Batel:</b> From Prompts to Performance: Evaluating LLMs for Task-based Parallel Code Generation</td>
-      <td><b>Zhuowei Gu:</b> Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition</td>
+      <td></td>
     </tr>
     <tr>
       <td class="time-col">01:30 PM</td>
       <td><b>Jonas Posner:</b> Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, and MPI</td>
       <td><b>Lionel Eyraud-Dubois:</b> First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications</td>
-      <td>Panel: Quantum Computing</td>
+      <td></td>
     </tr>
     <tr>
       <td class="time-col">02:00 PM</td>
@@ -124,12 +124,12 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
       <td class="time-col">02:30 PM</td>
       <td><em>Coffee</em></td>
       <td><em>Coffee</em></td>
-      <td><em>Coffee</em></td>
+      <td></td>
     </tr>
     <tr>
       <td class="time-col">03:00 PM</td>
       <td>Quantum Computer Tour (until 4:30 PM)</td>
-      <td>Panel: Novel architectures for AMT, <em>Chair: C. Junghans</em> (until 3:45 PM)</em></td>
+      <td>Panel: Novel architectures for AMT, <em>Chair: C. Junghans</em> (until 3:45 PM)</td>
       <td></td>
     </tr>
     <tr>
