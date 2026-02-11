@@ -70,7 +70,7 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
       <td class="time-col"></td>
       <td><em>Session 1, Chair: M. Rampp</em></td>
       <td><em>Session 3, Chair: J. Posner</em></td>
-      <td><em>Session 5, Chair: M. Rampp</em></td>
+      <td><em>Session 5, Chair: C. Junghans</em></td>
     </tr>
     <tr>
       <td class="time-col">10:30 AM</td>
@@ -86,7 +86,8 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
     </tr>
     <tr>
       <td class="time-col">11:30 AM</td>
-      <td><b>Qiao Zhang:</b> Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia</td>
+      <td><b>Vincent Arcila:</b> Hierarchical Scheduling for Composable Affinity-Aware Policies in Task-
+Based Runtimes</td>
       <td><b>Joseph Schuchart:</b> Using C++ Generators in Dataflow Broadcast</td>
       <td><b>Nicolas Ducarton:</b> Abstract communicators for task based runtime systems</td>
     </tr>
@@ -94,37 +95,37 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
       <td class="time-col">12:00 PM</td>
       <td><em>Lunch</em></td>
       <td><em>Lunch</em></td>
-      <td><b>Zhuowei Gu:</b> Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition</td>
+      <td><em>Lunch</em></td>
     </tr>
     <tr>
       <td class="time-col"></td>
-      <td><em>Session 2: C. Junghans</em></td>
-      <td><em>Session 4: M. Rampp</em></td>
-      <td><em>Lunch (12:30) </em></td>
+      <td><em>Session 2, Chair: C. Junghans</em></td>
+      <td><em>Session 4, Chair: M. Rampp</em></td>
+      <td><em>Session 6, Chair: M. Rampp </em></td>
     </tr>
     <tr>
       <td class="time-col">01:00 PM</td>
       <td><b>Jose Gracia:</b> Evaluating MPI and OpenMP for global task dependencies across processes</td>
       <td><b>Linus Batel:</b> From Prompts to Performance: Evaluating LLMs for Task-based Parallel Code Generation</td>
-      <td></td>
+      <td><b>Zhuowei Gu:</b> Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition</td>
     </tr>
     <tr>
       <td class="time-col">01:30 PM</td>
       <td><b>Jonas Posner:</b> Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, and MPI</td>
       <td><b>Lionel Eyraud-Dubois:</b> First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications</td>
-      <td></td>
+      <td><b>Qiao Zhang:</b> Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia</td>
     </tr>
     <tr>
       <td class="time-col">02:00 PM</td>
       <td><b>Nicolas Brieuc:</b> Managing Explicit Communications Within a Sequential Task Flow Paradigm</td>
       <td><b>Mia Reitz:</b> Silent Data Corruption Protection through Efficient Task Replication</td>
-      <td></td>
+      <td><em>Closing remarks</em></td>
     </tr>
     <tr>
       <td class="time-col">02:30 PM</td>
       <td><em>Coffee</em></td>
       <td><em>Coffee</em></td>
-      <td></td>
+      <td><em>Coffee</em></td>
     </tr>
     <tr>
       <td class="time-col">03:00 PM</td>
