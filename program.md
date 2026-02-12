@@ -138,8 +138,8 @@ Based Runtimes</td>
       <td>Reception (05:30 PM - 08:00 PM)</td>
       <td>
         05:30 PM: Bus to Brewery<br>
-        06:00 PM - 09:30 PM: Tour / Banquet<br>
-        09:30 PM: Bus to conference venue
+        06:00 PM - 09:00 PM: Tour / Banquet<br>
+        09:00 PM: Bus to conference venue
       </td>
       <td></td>
     </tr>
