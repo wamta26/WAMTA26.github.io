@@ -74,22 +74,21 @@ on Research Campus Garching, Gießenbachstrasse 2 85748 Garching near Munich, Ge
     </tr>
     <tr>
       <td class="time-col">10:30 AM</td>
-      <td><b>Peter Thoman:</b> Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems</td>
+      <td><b>Alexander Strack:</b> Accelerating GPRat: Asynchronous, Task-Based GPU Acceleration for Gaussian Process Regression with HPX</td>
       <td><b>Dominik Huber:</b> Towards Dynamic Resource Management with Charm++</td>
-      <td><b>Vanderlei Munhoz Pereira Filho:</b> Performance Analysis of Task-Based Parallelism for 3D Acoustic Full Waveform Inversion on HPC Infrastructure</td>
+      <td><b>Joseph Schuchart:</b> Multiresolution Analysis using Data-Flow Programming</td>
     </tr>
     <tr>
       <td class="time-col">11:00 AM</td>
-      <td><b>Alexander Strack:</b> Accelerating GPRat: Asynchronous, Task-Based GPU Acceleration for Gaussian Process Regression with HPX</td>
+      <td><b>Vincent Arcila:</b> Hierarchical Scheduling for Composable Affinity-Aware Policies in Task-Based Runtimes</td>
       <td><b>Rüdiger Nather:</b> Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies</td>
-      <td><b>Nilesh Chaturvedi:</b> Multiresolution Analysis using Data-Flow Programming</td>
+      <td><b>Nicolas Ducarton:</b> Abstract communicators for task based runtime systems</td>
     </tr>
     <tr>
       <td class="time-col">11:30 AM</td>
-      <td><b>Vincent Arcila:</b> Hierarchical Scheduling for Composable Affinity-Aware Policies in Task-
-Based Runtimes</td>
+      <td></td>
       <td><b>Joseph Schuchart:</b> Using C++ Generators in Dataflow Broadcast</td>
-      <td><b>Nicolas Ducarton:</b> Abstract communicators for task based runtime systems</td>
+      <td></td>
     </tr>
     <tr>
       <td class="time-col">12:00 PM</td>
@@ -112,7 +111,7 @@ Based Runtimes</td>
     <tr>
       <td class="time-col">01:30 PM</td>
       <td><b>Jonas Posner:</b> Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, and MPI</td>
-      <td><b>Lionel Eyraud-Dubois:</b> First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications</td>
+      <td><b>Philippe Swartvagher:</b> First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications</td>
       <td><b>Qiao Zhang:</b> Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia</td>
     </tr>
     <tr>
